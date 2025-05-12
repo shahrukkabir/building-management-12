@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import error from "../../../Image/404.gif";
-
 export default function HomeError() {
   return (
     <div className="w-full min-h-screen flex justify-center overflow-hidden items-center relative">
